@@ -1,0 +1,6 @@
+.idea
+gpt2
+models
+data
+*.bin
+*.model
